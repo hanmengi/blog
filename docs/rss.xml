@@ -1,2 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hanmengi.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hanmengi.github.io/blog</link></image><lastBuildDate>Thu, 25 Apr 2024 14:42:21 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>VPN</title><link>https://hanmengi.github.io/blog/post/VPN.html</link><description>#访问外网必备软件&#13;
+有好多叫法,如:魔法,翻墙,科学上网&#13;
+&#13;
+## 推荐几款比较不错的VPN&#13;
+1:小地球仪&#13;
+福利码:124362 福利码:124362  福利码:124362&#13;
+注册送3天会员+30GB流量,输入福利码另外获取3天会员+30GB流量,共计6天会员60GB.&#13;
+地址:https://www.xiaodiqiuyi.com/&#13;
+帮助中心:https://palantir.tawk.help/&#13;
+支持IOS,安卓,MAC,Windows,Apple TV&#13;
+价格表&#13;
+![1](https://github.com/hanmengi/blog/assets/126067700/498b0a95-335e-4e1e-b13a-0e881e1f419e)&#13;
+&#13;
+2:CokeCloud&#13;
+支持IOS,安卓,MAC,Windows,别用官方客户端,Windows用V2ray&#13;
+地址:https://cokecloud.net/#/register?code=dQJ0nyUZ&#13;
+![2](https://github.com/hanmengi/blog/assets/126067700/1c1a9c19-8c8a-4199-bf4c-92fea7fa15e5)&#13;
+&#13;
+###iOS翻墙软件&#13;
+Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取&#13;
+会提供临时ID下载&#13;
+&#13;
+####Shadowrocket共享账号&#13;
+地址:https://huojian.blyun.store/&#13;
+⚠️必须跟从以下步骤，在APP商店里登陆Apple ID，若果错误地在iCloud上登录，可能会导致您锁机。</description><guid isPermaLink="true">https://hanmengi.github.io/blog/post/VPN.html</guid><pubDate>Thu, 25 Apr 2024 14:41:54 +0000</pubDate></item></channel></rss>
