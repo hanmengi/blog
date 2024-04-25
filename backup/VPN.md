@@ -16,16 +16,16 @@
 地址:https://cokecloud.net/#/register?code=dQJ0nyUZ
 ![2](https://github.com/hanmengi/blog/assets/126067700/1c1a9c19-8c8a-4199-bf4c-92fea7fa15e5)
 
-###iOS翻墙软件
+### iOS翻墙软件
 Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取
 会提供临时ID下载
 
-####Shadowrocket共享账号
+#### Shadowrocket共享账号
 地址:https://huojian.blyun.store/
 ⚠️必须跟从以下步骤，在APP商店里登陆Apple ID，若果错误地在iCloud上登录，可能会导致您锁机。
 ⚠️如果询问是否进行双重认证升级，您必须选「其他选项」，然后「不要升级」，否则会锁机。
 ⚠️搜索Shadowracket下载，下载完以后退出登录即可。
 ⚠️下完 APP之后 一定要登出 本站提供的共享Apple ID。
 
-#####赞助我
+##### 赞助我
 ![IMG_0102 (1)](https://github.com/hanmengi/blog/assets/126067700/3a9fc890-c4a8-47c0-8e42-21b61da225f3)

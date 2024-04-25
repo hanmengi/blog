@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hanmengi.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hanmengi.github.io/blog</link></image><lastBuildDate>Thu, 25 Apr 2024 14:45:09 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>VPN</title><link>https://hanmengi.github.io/blog/post/VPN.html</link><description># 访问外网必备软件&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hanmengi.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hanmengi.github.io/blog</link></image><lastBuildDate>Thu, 25 Apr 2024 14:45:39 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>VPN</title><link>https://hanmengi.github.io/blog/post/VPN.html</link><description># 访问外网必备软件&#13;
 有好多叫法,如:魔法,翻墙,科学上网&#13;
 &#13;
 ## 推荐几款比较不错的VPN&#13;
@@ -17,10 +17,10 @@
 地址:https://cokecloud.net/#/register?code=dQJ0nyUZ&#13;
 ![2](https://github.com/hanmengi/blog/assets/126067700/1c1a9c19-8c8a-4199-bf4c-92fea7fa15e5)&#13;
 &#13;
-###iOS翻墙软件&#13;
+### iOS翻墙软件&#13;
 Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取&#13;
 会提供临时ID下载&#13;
 &#13;
-####Shadowrocket共享账号&#13;
+#### Shadowrocket共享账号&#13;
 地址:https://huojian.blyun.store/&#13;
 ⚠️必须跟从以下步骤，在APP商店里登陆Apple ID，若果错误地在iCloud上登录，可能会导致您锁机。</description><guid isPermaLink="true">https://hanmengi.github.io/blog/post/VPN.html</guid><pubDate>Thu, 25 Apr 2024 14:41:54 +0000</pubDate></item></channel></rss>
