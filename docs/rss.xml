@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hanmeng</title><link>https://hanmengi.github.io/blog</link><description>童话是一种生活态度，仅此而已。</description><copyright>hanmeng</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hanmengi.github.io/blog</link></image><lastBuildDate>Fri, 26 Apr 2024 00:08:36 +0000</lastBuildDate><managingEditor>hanmeng</managingEditor><ttl>60</ttl><webMaster>hanmeng</webMaster><item><title>VPN</title><link>https://hanmengi.github.io/blog/post/VPN.html</link><description># 访问外网必备软件&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hanmeng</title><link>https://hanmengi.github.io/blog</link><description>TG:@hanmeng1 mail:8869674@gmail.com QQ:2338382536</description><copyright>hanmeng</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hanmengi.github.io/blog</link></image><lastBuildDate>Fri, 26 Apr 2024 00:43:16 +0000</lastBuildDate><managingEditor>hanmeng</managingEditor><ttl>60</ttl><webMaster>hanmeng</webMaster><item><title>造梦无双</title><link>https://hanmengi.github.io/blog/post/zao-meng-wu-shuang.html</link><description># 功能演示图&#13;
+![1](https://github.com/hanmengi/blog/assets/126067700/ac59b7dc-07e8-42e2-847a-3cbf67e5ad8e)&#13;
+![2](https://github.com/hanmengi/blog/assets/126067700/cd858ec4-5a2b-4506-96b3-df8766ee2c6f)&#13;
+![3](https://github.com/hanmengi/blog/assets/126067700/ca981f8d-f123-4c03-aaba-69e6b1c21b8a)&#13;
+首先应用商店下载vmos pro并打开添加安卓7.1精简版ROM包（64位）给予root权限&#13;
+进入后打开常用工具下载GameGuardian并打开选择默认就行了&#13;
+然后导入造梦无双安装包，并完成游戏更新&#13;
+接着下载脚本:https://www.123pan.com/s/tRSRVv-BFPfh.html&#13;
+默认浏览器下载地址路径&#13;
+/storage/emulated/0/下载/Download/造梦无双.luaKM 然后导入虚拟机里面&#13;
+打开修改器并打开游戏选择游戏进程内存大的那个就是，对游戏隐藏gg23，旁路模式没有。</description><guid isPermaLink="true">https://hanmengi.github.io/blog/post/zao-meng-wu-shuang.html</guid><pubDate>Fri, 26 Apr 2024 00:32:35 +0000</pubDate></item><item><title>VPN</title><link>https://hanmengi.github.io/blog/post/VPN.html</link><description># 访问外网必备软件&#13;
 有好多叫法,如:魔法,翻墙,科学上网&#13;
 &#13;
 ## 推荐几款比较不错的VPN&#13;
