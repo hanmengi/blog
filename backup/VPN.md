@@ -8,13 +8,17 @@
 地址:https://www.xiaodiqiuyi.com/
 帮助中心:https://palantir.tawk.help/
 支持IOS,安卓,MAC,Windows,Apple TV
-价格表
 ![1](https://github.com/hanmengi/blog/assets/126067700/498b0a95-335e-4e1e-b13a-0e881e1f419e)
 
 2:CokeCloud
 支持IOS,安卓,MAC,Windows,别用官方客户端,Windows用V2ray
 地址:https://cokecloud.net/#/register?code=dQJ0nyUZ
 ![2](https://github.com/hanmengi/blog/assets/126067700/1c1a9c19-8c8a-4199-bf4c-92fea7fa15e5)
+
+3:V2Server
+地址:https://v2sx.com/aff.php?aff=1286
+![捕获](https://github.com/hanmengi/blog/assets/126067700/33cdb47d-d5fe-4b15-88bb-18e27535fb1d)
+
 
 ### iOS翻墙软件
 Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取
