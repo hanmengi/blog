@@ -15,10 +15,12 @@
 地址:https://cokecloud.net/#/register?code=dQJ0nyUZ
 ![2](https://github.com/hanmengi/blog/assets/126067700/1c1a9c19-8c8a-4199-bf4c-92fea7fa15e5)
 
-3:V2Server
-地址:https://v2sx.com/aff.php?aff=1286
-![捕获](https://github.com/hanmengi/blog/assets/126067700/33cdb47d-d5fe-4b15-88bb-18e27535fb1d)
-
+3:创奇
+支持ios,安卓,MAC,Windows,Linux,openwrt
+地址:https://go.cqjiasu.com/#/register?code=iZZzIHzN
+价格:
+按流量 30一次性150GB 70一次性500GB 140一次性1000GB 
+按周期  12元每月300GB 8元每月150GB  20每月500GB 15小月卡每月1000GB
 
 ### iOS翻墙软件
 Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取
