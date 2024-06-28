@@ -22,6 +22,16 @@
 按流量 30一次性150GB 70一次性500GB 140一次性1000GB 
 按周期  12元每月300GB 8元每月150GB  20每月500GB 15小月卡每月1000GB
 
+4:V2Server
+地址:https://v2sx.com/aff.php?aff=1286
+![v](https://github.com/hanmengi/blog/assets/126067700/6c727276-67aa-4a30-8029-563e8540563b)
+
+5:Mitce
+地址:https://mitce.com/aff.php?aff=5736
+![2](https://github.com/hanmengi/blog/assets/126067700/4fa283f2-186b-43b2-9c14-148bd0fd628c)
+
+
+
 ### iOS翻墙软件
 Shadowrocket(小火箭)，需要海外ID并花费2.99美元才能获取
 会提供临时ID下载
